@@ -12,7 +12,7 @@ pip install PyYAML requests
 
 ## Config
 
-Edit the yaml file `./config.yml`
+Create the yaml file `./config.yml`
 ```yaml
 icbc:
   drvrLastName: "YOUR_LAST_NAME"
