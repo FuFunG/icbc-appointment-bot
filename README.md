@@ -44,6 +44,9 @@ point_grey = {
     "licenseNumber": licenceNumber
 }
 ```
+## Locations
+| Location | posID |
+| Richmond claim centre (Elmbridge Way) | 9 |
 
 ## Contributing
 Feel free to contribute.
