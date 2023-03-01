@@ -47,8 +47,15 @@ point_grey = {
 ## Locations
 | Location  | posID |
 | ------------- | ------------- |
-| Richmond claim centre  | 273  |
-| Richmond driver licensing  | 93  |
+| Richmond claim centre (Elmbridge Way)  | 273  |
+| Richmond driver licensing (Lansdowne Centre mall)  | 93  |
+| Vancouver driver licensing (Point Grey)  | 9  |
+| Vancouver claim centre (Kingsway)  | 275  |
+| Burnaby claim centre (Wayburne Drive)  | 274  |
+| Surrey driver licensing  | 11  |
+| Newton claim centre (68 Avenue)  | 271  |
+| Surrey claim centre (152A St.)  | 269  |
+| North Vancouver driver licensing  | 8  |
 
 ## Contributing
 Feel free to contribute.
