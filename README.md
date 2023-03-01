@@ -45,8 +45,10 @@ point_grey = {
 }
 ```
 ## Locations
-| Location | posID |
-| Richmond claim centre (Elmbridge Way) | 9 |
+| Location  | posID |
+| ------------- | ------------- |
+| Richmond claim centre  | 273  |
+| Richmond driver licensing  | 93  |
 
 ## Contributing
 Feel free to contribute.
